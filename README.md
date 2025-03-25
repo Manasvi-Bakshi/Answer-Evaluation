@@ -15,37 +15,31 @@ Before running this project, ensure you have the following installed:
 
 Follow these steps to **set up and run** the project on your local machine:  
 
-### 1. Clone the repository  
+
+1. Change the directory
 
 ```
-git clone https://github.com/Manasvi-Bakshi/Answer-Evaluation.git
+cd your-path/Answer-Evaluation
 ```
 
-### 2. Change the directory
-
-```
-cd Answer-Evaluation
-```
-
-### 3. Create a virtual environment
+2. Create a virtual environment
 
 ```
 python -m venv venv
 ```
 
-### 4. Activate the virtual environment
+3. Activate the virtual environment
 
 ```
 venv\Scripts\activate
 ```
 
-### 5. Install required dependencies
+4. Install the required dependencies
 
 ```
 pip install flask flask-mysqldb pandas nltk sentence-transformers scikit-learn language-tool-python
 ```
-
-### 6. Run the application
+5. Run the application
 ```
 python admin.py
 ```
