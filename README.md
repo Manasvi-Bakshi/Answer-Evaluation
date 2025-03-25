@@ -1,17 +1,15 @@
 # 📝 Answer Sheet Analyzer  
 
 This project helps teachers evaluate answer sheets using deep learning models, text processing, and machine learning-based semantic analysis.
----
+
 
 ## 🚀 Prerequisites  
 
 Before running this project, ensure you have the following installed:  
-
 - Python (>=3.8)   
 - pip (Python package manager)  
 - virtualenv (Virtual Environment)
 
----
 
 ## 🔧 Installation  
 
